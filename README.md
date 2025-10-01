@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction-Model
+Heart Disease Prediction using Machine Learning
